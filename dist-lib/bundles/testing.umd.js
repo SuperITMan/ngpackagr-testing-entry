@@ -20,4 +20,4 @@
     Object.defineProperty(exports, '__esModule', { value: true });
 
 }));
-//# sourceMappingURL=mylib-testing.umd.js.map
+//# sourceMappingURL=testing.umd.js.map

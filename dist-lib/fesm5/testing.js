@@ -20,4 +20,4 @@ var MockService = /** @class */ (function () {
  */
 
 export { MockService };
-//# sourceMappingURL=mylib-testing.js.map
+//# sourceMappingURL=testing.js.map

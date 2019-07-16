@@ -1,13 +1,13 @@
 {
-  "main": "../bundles/mylib-testing.umd.js",
-  "module": "../fesm5/mylib-testing.js",
-  "es2015": "../fesm2015/mylib-testing.js",
-  "esm5": "../esm5/testing/mylib-testing.js",
-  "esm2015": "../esm2015/testing/mylib-testing.js",
-  "fesm5": "../fesm5/mylib-testing.js",
-  "fesm2015": "../fesm2015/mylib-testing.js",
-  "typings": "mylib-testing.d.ts",
-  "metadata": "mylib-testing.metadata.json",
+  "main": "../bundles/testing.umd.js",
+  "module": "../fesm5/testing.js",
+  "es2015": "../fesm2015/testing.js",
+  "esm5": "../esm5/testing/testing.js",
+  "esm2015": "../esm2015/testing/testing.js",
+  "fesm5": "../fesm5/testing.js",
+  "fesm2015": "../fesm2015/testing.js",
+  "typings": "testing.d.ts",
+  "metadata": "testing.metadata.json",
   "sideEffects": false,
   "name": "mylib/testing"
 }
