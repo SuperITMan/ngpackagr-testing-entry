@@ -1,0 +1,1 @@
+{"__symbolic":"module","version":4,"metadata":{"MockService":{"__symbolic":"class","members":{}}},"origins":{"MockService":"./service.mock"},"importAs":"mylib/testing"}

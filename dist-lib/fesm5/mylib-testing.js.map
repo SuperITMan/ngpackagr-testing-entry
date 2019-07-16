@@ -1,0 +1,1 @@
+{"version":3,"file":"mylib-testing.js","sources":["ng://mylib/testing/service.mock.ts"],"sourcesContent":["export class MockService {\r\n    public mockMethod = {};\r\n}"],"names":[],"mappings":";;;;AAAA;IAAA;QACW,eAAU,GAAG,EAAE,CAAC;KAC1B;IAAD,kBAAC;CAAA;;;;;;;;;;;;;;"}

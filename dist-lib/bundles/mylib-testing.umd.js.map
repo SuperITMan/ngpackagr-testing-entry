@@ -1,0 +1,1 @@
+{"version":3,"file":"mylib-testing.umd.js","sources":["ng://mylib/testing/service.mock.ts"],"sourcesContent":["export class MockService {\r\n    public mockMethod = {};\r\n}"],"names":[],"mappings":";;;;;;;;;;AAAA;QAAA;YACW,eAAU,GAAG,EAAE,CAAC;SAC1B;QAAD,kBAAC;KAAA;;;;;;;;;;;;"}

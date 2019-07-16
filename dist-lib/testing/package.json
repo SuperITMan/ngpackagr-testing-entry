@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/mylib-testing.umd.js",
+  "module": "../fesm5/mylib-testing.js",
+  "es2015": "../fesm2015/mylib-testing.js",
+  "esm5": "../esm5/testing/mylib-testing.js",
+  "esm2015": "../esm2015/testing/mylib-testing.js",
+  "fesm5": "../fesm5/mylib-testing.js",
+  "fesm2015": "../fesm2015/mylib-testing.js",
+  "typings": "mylib-testing.d.ts",
+  "metadata": "mylib-testing.metadata.json",
+  "sideEffects": false,
+  "name": "mylib/testing"
+}
